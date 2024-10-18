@@ -347,7 +347,16 @@ h6 {
 }
 
 .btn.menu-btn {
+	background-color:#525252;
 	padding: 5px 12px;
+}
+.btn.menu-btn:hover{
+	background-color: #525252 !important;
+	color: #f1f1f1 !important;
+}
+.btn.menu-btn i.bx{
+	font-size: 13px;
+	color: #fff;
 }
 
 .btn.btn-1 {
@@ -632,8 +641,7 @@ h6 {
 }
  
 .events-row p {
-	font-size:16px;
-	font-weight:600;
+	font-size:13px;
 	letter-spacing:1px;
 	margin-bottom:3px;
 }
@@ -745,6 +753,9 @@ h6 {
 }
 .whats-app-content .whats-app-img:hover{
 	transform: scale(1.1);
+}
+.copyright p a{
+	color: #525252;
 }
 /*======================================= 13.SECTION : FOOTER END ========================================*/
 
