@@ -1,0 +1,27 @@
+	<section class="section-padding section-2-bg remaining-section">
+		<div class="container">
+			<div class="heading-div heading-div-1 text-center">
+				<h2 class="remaining-section-h2">Lorem, ipsum.</h2>
+				<img src="images/100x11.png" alt="100x11" />
+			</div>
+			<div class="row counter-div">
+				<div class="col-xs-6 col-sm-3 counter-col">
+					<p class="counter-value">132</p>
+					<p class="counter-title">Happy Customer</p>
+				</div>
+				<div class="col-xs-6 col-sm-3 counter-col counter-col-1">
+					<p class="counter-value">24</p>
+					<p class="counter-title">Events</p>
+				</div>
+				<div class="col-xs-6 col-sm-3 counter-col responsive-top-space">
+					<p class="counter-value">32</p>
+					<p class="counter-title">Weddings</p>
+				</div>
+				<div class="col-xs-6 col-sm-3 counter-col responsive-top-space">
+					<p class="counter-value">47</p>
+					<p class="counter-title">Premium Weddings</p>
+				</div>
+				<img src="images/930x400.jpg" alt="930x400" class="img-responsive" />
+			</div>
+		</div>
+	</section>
